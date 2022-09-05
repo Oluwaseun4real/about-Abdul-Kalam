@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.name{
+    padding-top: 250px;
+    padding-left: 500px;
+    font-size: 50px;
+}
+.image{
+    width: 1000px;
+    padding-left: 450px;
+    padding-top: 20px;
+}
+.group_one{
+    
+    width: 1000px;
+    height: 1000px;
+    margin-left: 250px;
+    margin-top: 80px;
+    background-color: #E9E4D4;
+    box-shadow: 300px;
+    padding-top: 50px;
+}
+.about{
+    padding-left: 300px;
+    color: white;
+    font-size: 30px;
+}
+.details{
+    padding-top: 20px;
+}
